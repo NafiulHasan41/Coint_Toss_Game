@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		AD9646552CEE95BC00EE5E0E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AD96463C2CEE95BA00EE5E0E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AD9646432CEE95BA00EE5E0E;
+			remoteInfo = "Coint Toss Game";
+		};
+		AD96465F2CEE95BC00EE5E0E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AD96463C2CEE95BA00EE5E0E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AD9646432CEE95BA00EE5E0E;
+			remoteInfo = "Coint Toss Game";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AD9646442CEE95BA00EE5E0E /* Coint Toss Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Coint Toss Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD9646542CEE95BC00EE5E0E /* Coint Toss GameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Coint Toss GameTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD96465E2CEE95BC00EE5E0E /* Coint Toss GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Coint Toss GameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		AD9646462CEE95BA00EE5E0E /* Coint Toss Game */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Coint Toss Game";
+			sourceTree = "<group>";
+		};
+		AD9646572CEE95BC00EE5E0E /* Coint Toss GameTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Coint Toss GameTests";
+			sourceTree = "<group>";
+		};
+		AD9646612CEE95BC00EE5E0E /* Coint Toss GameUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Coint Toss GameUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AD9646412CEE95BA00EE5E0E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD9646512CEE95BC00EE5E0E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD96465B2CEE95BC00EE5E0E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AD96463B2CEE95BA00EE5E0E = {
+			isa = PBXGroup;
+			children = (
+				AD9646462CEE95BA00EE5E0E /* Coint Toss Game */,
+				AD9646572CEE95BC00EE5E0E /* Coint Toss GameTests */,
+				AD9646612CEE95BC00EE5E0E /* Coint Toss GameUITests */,
+				AD9646452CEE95BA00EE5E0E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AD9646452CEE95BA00EE5E0E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AD9646442CEE95BA00EE5E0E /* Coint Toss Game.app */,
+				AD9646542CEE95BC00EE5E0E /* Coint Toss GameTests.xctest */,
+				AD96465E2CEE95BC00EE5E0E /* Coint Toss GameUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AD9646432CEE95BA00EE5E0E /* Coint Toss Game */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD9646682CEE95BC00EE5E0E /* Build configuration list for PBXNativeTarget "Coint Toss Game" */;
+			buildPhases = (
+				AD9646402CEE95BA00EE5E0E /* Sources */,
+				AD9646412CEE95BA00EE5E0E /* Frameworks */,
+				AD9646422CEE95BA00EE5E0E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				AD9646462CEE95BA00EE5E0E /* Coint Toss Game */,
+			);
+			name = "Coint Toss Game";
+			packageProductDependencies = (
+			);
+			productName = "Coint Toss Game";
+			productReference = AD9646442CEE95BA00EE5E0E /* Coint Toss Game.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AD9646532CEE95BC00EE5E0E /* Coint Toss GameTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD96466B2CEE95BC00EE5E0E /* Build configuration list for PBXNativeTarget "Coint Toss GameTests" */;
+			buildPhases = (
+				AD9646502CEE95BC00EE5E0E /* Sources */,
+				AD9646512CEE95BC00EE5E0E /* Frameworks */,
+				AD9646522CEE95BC00EE5E0E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AD9646562CEE95BC00EE5E0E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				AD9646572CEE95BC00EE5E0E /* Coint Toss GameTests */,
+			);
+			name = "Coint Toss GameTests";
+			packageProductDependencies = (
+			);
+			productName = "Coint Toss GameTests";
+			productReference = AD9646542CEE95BC00EE5E0E /* Coint Toss GameTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AD96465D2CEE95BC00EE5E0E /* Coint Toss GameUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD96466E2CEE95BC00EE5E0E /* Build configuration list for PBXNativeTarget "Coint Toss GameUITests" */;
+			buildPhases = (
+				AD96465A2CEE95BC00EE5E0E /* Sources */,
+				AD96465B2CEE95BC00EE5E0E /* Frameworks */,
+				AD96465C2CEE95BC00EE5E0E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AD9646602CEE95BC00EE5E0E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				AD9646612CEE95BC00EE5E0E /* Coint Toss GameUITests */,
+			);
+			name = "Coint Toss GameUITests";
+			packageProductDependencies = (
+			);
+			productName = "Coint Toss GameUITests";
+			productReference = AD96465E2CEE95BC00EE5E0E /* Coint Toss GameUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AD96463C2CEE95BA00EE5E0E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					AD9646432CEE95BA00EE5E0E = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					AD9646532CEE95BC00EE5E0E = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = AD9646432CEE95BA00EE5E0E;
+					};
+					AD96465D2CEE95BC00EE5E0E = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = AD9646432CEE95BA00EE5E0E;
+					};
+				};
+			};
+			buildConfigurationList = AD96463F2CEE95BA00EE5E0E /* Build configuration list for PBXProject "Coint Toss Game" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AD96463B2CEE95BA00EE5E0E;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = AD9646452CEE95BA00EE5E0E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AD9646432CEE95BA00EE5E0E /* Coint Toss Game */,
+				AD9646532CEE95BC00EE5E0E /* Coint Toss GameTests */,
+				AD96465D2CEE95BC00EE5E0E /* Coint Toss GameUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AD9646422CEE95BA00EE5E0E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD9646522CEE95BC00EE5E0E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD96465C2CEE95BC00EE5E0E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AD9646402CEE95BA00EE5E0E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD9646502CEE95BC00EE5E0E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD96465A2CEE95BC00EE5E0E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AD9646562CEE95BC00EE5E0E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AD9646432CEE95BA00EE5E0E /* Coint Toss Game */;
+			targetProxy = AD9646552CEE95BC00EE5E0E /* PBXContainerItemProxy */;
+		};
+		AD9646602CEE95BC00EE5E0E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AD9646432CEE95BA00EE5E0E /* Coint Toss Game */;
+			targetProxy = AD96465F2CEE95BC00EE5E0E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		AD9646662CEE95BC00EE5E0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AD9646672CEE95BC00EE5E0E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AD9646692CEE95BC00EE5E0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Coint Toss Game/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nafsoft..Coint-Toss-Game";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AD96466A2CEE95BC00EE5E0E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Coint Toss Game/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nafsoft..Coint-Toss-Game";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		AD96466C2CEE95BC00EE5E0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nafsoft..Coint-Toss-GameTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Coint Toss Game.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Coint Toss Game";
+			};
+			name = Debug;
+		};
+		AD96466D2CEE95BC00EE5E0E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nafsoft..Coint-Toss-GameTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Coint Toss Game.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Coint Toss Game";
+			};
+			name = Release;
+		};
+		AD96466F2CEE95BC00EE5E0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nafsoft..Coint-Toss-GameUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Coint Toss Game";
+			};
+			name = Debug;
+		};
+		AD9646702CEE95BC00EE5E0E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nafsoft..Coint-Toss-GameUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Coint Toss Game";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AD96463F2CEE95BA00EE5E0E /* Build configuration list for PBXProject "Coint Toss Game" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD9646662CEE95BC00EE5E0E /* Debug */,
+				AD9646672CEE95BC00EE5E0E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD9646682CEE95BC00EE5E0E /* Build configuration list for PBXNativeTarget "Coint Toss Game" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD9646692CEE95BC00EE5E0E /* Debug */,
+				AD96466A2CEE95BC00EE5E0E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD96466B2CEE95BC00EE5E0E /* Build configuration list for PBXNativeTarget "Coint Toss GameTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD96466C2CEE95BC00EE5E0E /* Debug */,
+				AD96466D2CEE95BC00EE5E0E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD96466E2CEE95BC00EE5E0E /* Build configuration list for PBXNativeTarget "Coint Toss GameUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD96466F2CEE95BC00EE5E0E /* Debug */,
+				AD9646702CEE95BC00EE5E0E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AD96463C2CEE95BA00EE5E0E /* Project object */;
+}
